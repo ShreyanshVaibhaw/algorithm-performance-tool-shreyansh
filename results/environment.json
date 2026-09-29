@@ -1,0 +1,10 @@
+{
+  "python": "3.12.10",
+  "implementation": "CPython",
+  "os": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",
+  "cpu_count": "8",
+  "timer": "time.perf_counter",
+  "memory": "tracemalloc peak heap (separate run)",
+  "recorded_at": "2026-09-28 11:22:50"
+}

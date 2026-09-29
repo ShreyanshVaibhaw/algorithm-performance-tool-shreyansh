@@ -1,0 +1,7 @@
+# Core dependencies for the Algorithm Performance Measurement and Benchmarking Tool
+streamlit>=1.35
+pandas>=2.0
+matplotlib>=3.8
+memory_profiler>=0.61
+numpy>=1.26
+jupyter>=1.0

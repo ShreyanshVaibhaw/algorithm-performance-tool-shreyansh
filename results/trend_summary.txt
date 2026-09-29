@@ -1,0 +1,9 @@
+Linear Search: input grew 500x from 100 to 50,000; time grew 969.6x from 10.5 us to 10.18 ms (log-log slope 1.09).
+Binary Search: input grew 500x from 100 to 50,000; time grew 1.4x from 3.6 us to 5.0 us (log-log slope 0.06).
+At n = 50,000, Binary Search is 2,036.1x faster than Linear Search.
+Recursive Factorial: input grew 10x from 100 to 1,000; time grew 33.0x from 21.0 us to 692.0 us (log-log slope 1.51).
+Iterative Factorial: input grew 10x from 100 to 1,000; time grew 39.2x from 14.3 us to 558.5 us (log-log slope 1.58).
+At n = 1,000, Iterative Factorial is 1.2x faster than Recursive Factorial.
+Single Loop Traversal: input grew 500x from 100 to 50,000; time grew 634.6x from 7.0 us to 4.44 ms (log-log slope 1.04).
+Nested Loop Traversal: input grew 500x from 100 to 50,000; time grew 476,040.9x from 691.1 us to 328.99 s (log-log slope 2.09).
+At n = 50,000, Single Loop Traversal is 74,068.1x faster than Nested Loop Traversal.
